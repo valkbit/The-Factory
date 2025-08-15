@@ -1,0 +1,15 @@
+Item #: SCP-7034  
+Object Class: Euclid  
+
+Special Containment Procedures:  
+SCP-7034 is to be kept in a sealed environmental chamber, 20m x 20m x 10m, at Site-12. The chamber is to simulate a generic office environment. All personnel must wear Class-B neural inhibitors when inside the chamber.  
+
+Description:  
+SCP-7034 is an anomalous office cubicle that causes individuals inside to become convinced that a mandatory “daily report” must be completed at all costs. Subjects exhibit obsessive behavior, often attempting to write or type reports continuously for several hours. Failure to comply results in mild psychological distress, including anxiety, agitation, and in rare cases hallucinations of office supplies moving autonomously.  
+
+No objects within SCP-7034 are anomalous themselves, and the effect ends once subjects leave the chamber or are sedated. The source of SCP-7034’s anomalous properties remains unknown.  
+
+Addendum 7034-1 – Recovery Log:  
+SCP-7034 was discovered in an abandoned corporate building in ██████ City, following reports of employees missing for weeks. Foundation recovery teams documented that all furniture inside SCP-7034 was standard office equipment.  
+
+— End of Document —

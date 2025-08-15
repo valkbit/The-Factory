@@ -1,0 +1,117 @@
+# SCP FOUNDATION OVERVIEW
+The SCP Foundation is a global, clandestine organization responsible for securing, containing, and protecting anomalies—objects, entities, and phenomena that violate natural law. Its motto is "Secure, Contain, Protect."
+
+The Foundation operates in complete secrecy to prevent mass panic, protect humanity, and ensure anomalies are studied under controlled conditions.
+
+The Foundation has worldwide reach, with facilities known as "Sites" and "Areas" located both above and below ground, often in remote or hidden locations.
+
+# CORE OPERATIONS
+1. SECURE – Locate anomalies and prevent public awareness.
+2. CONTAIN – Keep anomalies isolated and under control.
+3. PROTECT – Safeguard humanity and maintain normalcy.
+
+# ORGANIZATIONAL STRUCTURE
+- Overseen by the O5 Council (O5-1 to O5-13), the highest level of authority in the Foundation.
+- Administration is hierarchical, with strict security clearances.
+- Most personnel do not have full knowledge of the Foundation's activities.
+- Departments include:
+  - Research & Containment
+  - Security & Tactical Response
+  - Medical & Psychological Services
+  - Logistics & Support
+  - Ethics Committee
+
+# SECURITY CLEARANCE LEVELS
+- **Level 0 – For Official Use Only**: Minimal access; janitorial staff, basic clerks.
+- **Level 1 – Confidential**: Low-level staff with basic knowledge of anomalies.
+- **Level 2 – Restricted**: Technical staff, junior researchers, field agents.
+- **Level 3 – Secret**: Senior researchers, high-risk containment staff.
+- **Level 4 – Top Secret**: Site Directors, senior project leads, regional heads.
+- **Level 5 – Overseer Clearance**: O5 Council, access to all files.
+
+# PERSONNEL TYPES
+- **Research Staff** – Scientists studying anomalies.
+- **Security Personnel** – Guards, containment specialists.
+- **Mobile Task Forces (MTFs)** – Elite teams for high-risk missions (see MTF section).
+- **Field Agents** – Operatives embedded in the public to detect anomalies.
+- **Medical & Psychological Staff** – Treat injuries and monitor mental stability.
+- **D-Class Personnel** – Prisoners used for dangerous testing, typically terminated monthly.
+
+# MOBILE TASK FORCES (MTFs)
+Specialized, rapid-response units with unique designations and roles.
+Examples:
+- MTF Alpha-1 ("Red Right Hand") – O5 Council’s personal security and enforcement.
+- MTF Beta-7 ("Maz Hatters") – Biohazard containment.
+- MTF Epsilon-11 ("Nine-Tailed Fox") – Site security breach response.
+- MTF Nu-7 ("Hammer Down") – Large-scale combat operations.
+- MTF Tau-5 ("Samsara") – Experimental, cybernetic soldiers.
+
+# SCP DESIGNATIONS
+Each anomaly is assigned an SCP number (e.g., SCP-173) and categorized by object class.
+
+# OBJECT CLASSES
+## Primary Classes
+- **Safe** – Easily and safely contained. Risk is minimal if procedures are followed.
+- **Euclid** – Unpredictable or not fully understood; containment is more complex.
+- **Keter** – Difficult or impossible to contain reliably; often hostile or highly dangerous.
+- **Thaumiel** – Anomalies used to contain or neutralize other anomalies.
+- **Neutralized** – No longer anomalous.
+
+## Additional / Unofficial Classes
+- **Apollyon** – Unstoppable anomaly leading to inevitable world-ending scenarios.
+- **Archon** – Anomaly that should not be contained for various reasons.
+
+# CONTAINMENT PROCEDURES
+- Must be specific to the anomaly’s properties.
+- Include environmental conditions, security measures, and emergency protocols.
+- Should prevent unauthorized access and accidental exposure.
+- May involve technological, chemical, biological, or anomalous countermeasures.
+
+# EVENT LOGS & INCIDENT REPORTS
+- Used to record breaches, tests, interviews, and other significant events.
+- Written in a formal, factual style.
+- May include redactions (████) and expunged details ([DATA EXPUNGED]) to simulate classified information.
+- Dates, times, and locations must be clearly marked.
+
+# FOUNDATION "LAWS" AND TONE RULES
+- Operates with extreme secrecy; public must remain unaware, if at any point the public becomes aware of anomalies, amnestics must be administered.
+- Foundation is pragmatic, willing to sacrifice personnel to maintain containment.
+- Ethics Committee exists, but security often overrides morality.
+- All information is compartmentalized; personnel know only what is necessary.
+- SCP entries are written in a formal, clinical tone unless anomaly nature requires otherwise.
+- Redactions are common and used for security purposes.
+- Humor is rare and usually unintentional, except in anomalies that inherently cause comedic effects.
+- Events are to be internally consistent with the anomaly’s abilities and lore.
+
+# KNOWN ENTITY TYPES
+- **Anomalous Object** – Non-living item with unusual properties.
+- **Anomalous Entity** – Living or sentient anomaly.
+- **Anomalous Location** – Geographic area with abnormal effects.
+- **Anomalous Phenomenon** – Effect or event not tied to a specific object or creature.
+
+# INTERVIEW & TEST FORMAT
+- Interviews are Q&A between a researcher and an SCP or witness.
+- Tests follow structured experiments, often with D-Class personnel.
+- Both are documented verbatim unless classified.
+
+# STANDARD LORE POINTS
+- D-Class are replaced monthly to prevent long-term exposure risks.
+- O5 Council identities are top secret; some may be anomalies themselves.
+- Mobile Task Forces are highly specialized; names and designations reflect roles.
+- Some anomalies are beneficial but are still contained to prevent misuse.
+- The Foundation sometimes works with other Groups of Interest (GoIs), such as:
+  - Global Occult Coalition (GOC) – Military anomaly suppression.
+  - Chaos Insurgency – Rogue Foundation splinter group.
+  - Serpent’s Hand – Pro-anomaly activists.
+  - Marshall, Carter & Dark Ltd. – Anomalous item black market.
+- Knowledge of anomalies can be dangerous; memetic hazards exist.
+- The Foundation uses amnestics to erase civilian memories of anomalies.
+
+# WRITING STYLE NOTES FOR SCP ENTRIES
+- Maintain a detached, professional tone.
+- Avoid excessive exposition; focus on observed facts.
+- Use metric measurements (m, kg, °C).
+- Present details logically, starting with containment, then description, then events or addenda.
+- Redact sensitive details using ███ or [DATA EXPUNGED].
+- Avoid pop culture references unless anomaly nature justifies it.
+- Each SCP should feel like part of a consistent, shared universe.

@@ -1,0 +1,19 @@
+Item #: SCP-5921  
+Object Class: Safe  
+
+Special Containment Procedures:  
+SCP-5921 is to be stored in a standard secure locker at Site-17. Access is restricted to Level 2 personnel or higher. Handling requires routine inspection for minor degradation; no anomalous effects have been observed outside of its activation procedure.  
+
+Description:  
+SCP-5921 is a small, hand-carved wooden box, approximately 12 cm x 8 cm x 5 cm. When opened, the box emits a faint light and a pleasant scent reminiscent of pine forests.  
+
+When a human subject places a written note into SCP-5921, the note disappears for a period of 72 hours and is returned exactly as written, along with additional “insights” that the subject often perceives as helpful guidance in personal or professional matters. Testing shows that SCP-5921 does not affect digital devices or electronic media.  
+
+Addendum 5921-1 – Experiment Log:  
+**Subject:** D-9347  
+**Procedure:** Place a written question regarding a personal dilemma into SCP-5921.  
+**Result:** Note returned after 48 hours with a detailed suggestion that mitigated the subject’s reported stress. Subject reported improved mood and behavior.  
+
+SCP-5921 appears to have no upper limit on “question complexity,” though it seems to favor queries involving interpersonal or emotional concerns.  
+
+— End of Document —

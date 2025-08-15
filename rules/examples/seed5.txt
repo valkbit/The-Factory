@@ -1,0 +1,31 @@
+Item #: SCP-6214  
+Object Class: Keter  
+
+Special Containment Procedures:  
+SCP-6214 cannot be physically contained due to its spatial and dimensional properties. A 10 km exclusion zone has been established around the known entrance coordinates in ███████, Siberia. Warning markers, surveillance drones, and automatic perimeter defenses are to be maintained at all times.  
+
+All personnel entering SCP-6214 require Level 4 authorization, psychological clearance, and emergency extraction protocols. No personnel are allowed to enter alone. UAV reconnaissance is mandatory before any manned expedition.  
+
+Description:  
+SCP-6214 is a naturally occurring cavern system that extends infinitely beyond known geological limits. The entrance resembles a narrow crevasse approximately 1.2 meters wide, but internal exploration reveals large chambers, endless tunnels, and spatial anomalies that defy conventional mapping.  
+
+Time and distance inside SCP-6214 appear inconsistent: individuals report spending days inside, while external time shows only hours. GPS and compass devices fail, often showing impossible coordinates or circular loops.  
+
+SCP-6214 is inhabited by entities designated SCP-6214-1. These entities are humanoid in appearance but semi-transparent, silent, and aggressive when approached. Direct contact has resulted in immediate disappearance or reappearance far from the entry point.  
+
+The deeper an expedition penetrates, the more extreme the anomalies become: gravitational shifts, disappearing floors, and rooms that repeat infinitely. Several exploratory teams have reported auditory hallucinations, distorted reflections of themselves, and encounters with impossible architecture.  
+
+Addendum 6214-1 – Recovery Log:  
+SCP-6214 was first reported in 1997 following the disappearance of a group of loggers. Initial MTF Gamma-9 (“Snow Leopards”) expeditions confirmed the anomaly’s existence after multiple team members failed to return. Attempts to map the interior have been unsuccessful due to non-Euclidean geometry.  
+
+Addendum 6214-2 – Incident Report 6214-A:  
+During an unauthorized expedition in 2021, a D-class team entered SCP-6214 and did not return. Audio recordings captured from drones show the team discussing hallways that “loop forever” and “seeing each other from impossible angles.” All personnel were declared lost.  
+
+Addendum 6214-3 – Research Notes:  
+- SCP-6214 shows properties consistent with localized spacetime distortion.  
+- Magnetic and gravitational anomalies increase with depth.  
+- Prolonged exposure to SCP-6214 causes psychological effects, including paranoia, derealization, and compulsive exploration behavior.  
+
+Note: Due to extreme hazard potential and uncontainable nature, SCP-6214 is to be monitored remotely. Any civilian approach is to be neutralized with lethal force if necessary.  
+
+— End of Document —

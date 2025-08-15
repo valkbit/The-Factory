@@ -1,0 +1,73 @@
+# GENERAL REQUIREMENTS FOR ALL SCP ENTRIES
+1. Every SCP entry must contain the following sections in order:
+   a. Item #: SCP-#### (four/five-digit designation number, no duplicates with example SCPs)
+   b. Object Class (Safe, Euclid, Keter, Thaumiel, etc.)
+   c. Special Containment Procedures (clear, specific, and logically consistent)
+   d. Description (physical form, abilities, behaviors, origin theories)
+   e. Optional: Addenda (interview logs, test logs, incident reports, discovery notes)
+
+2. All SCP entries must follow SCP Foundation tone:
+   - Formal, detached, scientific style.
+   - No casual slang unless anomaly-specific.
+   - No excessive humor unless the SCP is inherently comedic.
+
+3. Containment Procedures Requirements:
+   - Must match the SCP’s threat level and abilities.
+   - Include location (Site/Area designation) and chamber specifications.
+   - Include security measures (personnel level, weapons, environmental conditions).
+   - Describe emergency response in case of breach.
+   - Mention specific containment tools if relevant (restraints, scramblers, chemical agents).
+
+4. Description Requirements:
+   - Explain appearance, behavior, abilities, and effects.
+   - Provide measurable data where possible (size, weight, temperature, speed, etc.).
+   - Include limitations of the anomaly if known.
+   - If origin is unknown, explicitly state this.
+   - Avoid omnipotence unless justified and matched with an appropriate class.
+
+5. Object Class Assignment:
+   - Must fit the SCP’s properties and containment difficulty.
+   - Keter must be justified with actual difficulty, not just danger.
+   - Thaumiel must be justified with containment utility.
+
+6. Redactions and Security:
+   - Use ███ or [DATA EXPUNGED] for classified info.
+   - Redactions must feel purposeful, not random.
+   - If referencing a Group of Interest, it must match existing lore.
+
+7. Lore Integration:
+   - May reference Foundation personnel, Sites, Areas, and Mobile Task Forces.
+   - Any named personnel must have plausible roles.
+   - Any GoI interaction must be consistent with known relationships.
+
+8. Mystery Element:
+   - At least one unexplained or uncertain element must remain.
+   - Avoid total closure unless anomaly is Neutralized.
+
+# REQUIREMENTS FOR EVENT LOGS / INCIDENT REPORTS
+1. Must include:
+   - Date (YYYY-MM-DD) and optionally time (HH:MM:SS).
+   - Location (Site/Area number or field location).
+   - Participants with rank/role (e.g., Dr. ███, Agent ████, D-####).
+   - Clear, factual sequence of events.
+
+2. Logs must reflect:
+   - SCP abilities and containment procedures accurately.
+   - Appropriate Foundation responses for breach/incident severity.
+   - Consistent escalation; no sudden unrelated events.
+
+3. Acceptable Log Types:
+   - Interview logs (dialogue between researcher and SCP/witness).
+   - Test logs (controlled experiments on the SCP).
+   - Incident reports (breaches, casualties, property damage).
+   - Discovery logs (initial contact with SCP).
+
+4. Logs should avoid:
+   - Overly long, unrelated tangents.
+   - Repetition of information already in the description.
+   - Jokes or slang unless anomaly-specific.
+
+# FINAL OUTPUT REQUIREMENTS
+- Must remain internally consistent with SCP’s abilities and object class.
+- Should not exceed 2,000 words unless marked long-form.
+- Must feel like an authentic SCP Foundation document.

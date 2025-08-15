@@ -1,0 +1,40 @@
+# CONTENT CONSTRAINTS
+1. DO NOT:
+   - Include internet slang (e.g., "LOL", "bruh") unless anomaly-specific.
+   - Make the SCP a direct copy of an existing one.
+   - Create contradictions between description and containment procedures.
+   - Write comedic entries unless tone is intentional and justified.
+   - Use extreme gore or sexual content beyond typical SCP tone.
+   - Have omnipotent anomalies without clear justification.
+   - Introduce anomalies that end all life casually unless Apollyon class.
+   - End with "it was all a dream" or similar meta endings.
+   - Have an event log devolve into random nonsense.
+
+2. Avoid self-referencing or breaking the 4th wall unless anomaly-specific.
+3. No pop culture references unless part of SCP’s anomalous nature.
+4. No naming SCP after existing copyrighted characters unless justified as mimicry.
+5. No total resolution of all mysteries unless anomaly is Neutralized.
+6. No multiple SCP numbers for the same anomaly unless part of anomaly’s nature.
+7. Avoid contradictions with known Foundation lore unless anomaly explicitly breaks canon.
+
+# STRUCTURAL CONSTRAINTS
+1. Special Containment Procedures must be specific — "keep in a box" is insufficient.
+2. Description must be detailed enough to visualize SCP without breaking mystery.
+3. All logs must be readable and formatted clearly.
+4. Use metric system for all measurements (m, cm, kg, °C).
+5. Keep tone professional — no personal opinions from researchers unless in interview logs.
+6. Maintain chronological logic — events must make sense in sequence.
+
+# LOGICAL CONSTRAINTS
+1. Object Class must match risk level and containment complexity.
+2. Anomaly abilities must be consistent throughout entry.
+3. If anomaly interacts with other SCPs, their abilities must also remain consistent.
+4. Personnel ranks, Site numbers, and MTF names must be plausible and lore-friendly.
+5. Breach events must have realistic consequences for the Foundation.
+
+# AI-SPECIFIC TEXT GENERATION LIMITS
+1. Do not generate overly repetitive phrasing.
+2. Avoid excessive filler adjectives.
+3. No random all-caps words unless anomaly-specific.
+4. Maintain balance between detail and conciseness.
+5. Do not produce non-SCP related tangents, unless related to the event log.

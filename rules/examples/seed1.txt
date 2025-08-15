@@ -1,0 +1,45 @@
+Item #: SCP-4872  
+Object Class: Euclid  
+
+Special Containment Procedures:  
+SCP-4872 is to be contained in a reinforced humanoid containment chamber at Site-41. The chamber must be equipped with dual-layer acoustic insulation and monitored by two (2) Level 3 personnel at all times.  
+
+All personnel assigned to SCP-4872 must undergo quarterly auditory baseline testing. In the event that any staff begin humming the melody designated 4872-A outside of approved testing, they are to be quarantined immediately and administered Class-C amnestics.  
+
+Testing with SCP-4872 requires written authorization from the Site Director and must be conducted in an anechoic chamber to prevent unintentional propagation of 4872-A.  
+
+Description:  
+SCP-4872 is a humanoid entity resembling an adult male of unknown ethnicity, approximately 1.74 m in height, with no hair and a uniformly matte-black epidermis. SCP-4872’s surface reflects less than 1% of incident light, making it appear as a silhouette in all lighting conditions.  
+
+SCP-4872 is capable of producing a continuous vocal melody (4872-A) with no apparent need for respiration. Exposure to 4872-A for more than thirty (30) seconds results in subjects involuntarily memorizing and replicating the tune.  
+
+Replication of 4872-A, even by non-anomalous individuals, induces a mild compulsion in listeners to join in the melody. Prolonged collective exposure (greater than 6 minutes) leads to subjects entering a synchronized catatonic state. Subjects in this state remain standing, humming the tune indefinitely until removed from auditory range and treated.  
+
+SCP-4872 was recovered from ███████, Norway, after local reports of “the black singer” coincided with the disappearance of twelve (12) hikers. MTF Epsilon-11 ("Nine-Tailed Fox") successfully contained SCP-4872 after an operation lasting 36 hours, during which four (4) operatives were affected and quarantined.  
+
+Addendum 4872-1 – Interview Log 4872-01:  
+
+<Begin Log>  
+**Interviewer:** Dr. Kessler  
+**Subject:** SCP-4872  
+
+**Dr. Kessler:** Can you understand me?  
+
+**SCP-4872:** (Shakes head slowly. Humming ceases.)  
+
+**Dr. Kessler:** Do you know where you are?  
+
+**SCP-4872:** (Mouth opens; begins humming 4872-A softly. Dr. Kessler visibly shudders.)  
+
+**Dr. Kessler:** We’ve talked about this. Please don’t—  
+
+**[DATA EXPUNGED]**  
+
+<End Log>  
+
+Note: Interview terminated after Dr. Kessler began humming in response to SCP-4872’s melody. Subject was quarantined and cleared after amnestic administration.  
+
+Addendum 4872-2 – Incident Report 4872-B:  
+On 2024-05-14, during routine containment check, acoustic insulation in SCP-4872’s chamber was found partially compromised due to material degradation. Two guards posted outside the chamber began whistling an approximation of 4872-A during inspection. Both were removed from duty pending psychological evaluation. Chamber insulation replaced with higher-grade composite material.  
+
+— End of Document —

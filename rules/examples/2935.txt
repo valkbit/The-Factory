@@ -1,0 +1,88 @@
+SCP Designation: SCP-2935
+Object Class: Keter
+
+Assigned Site: USINBL Site-81
+Site Director: J. Karlyle Aktus
+Research Head: S. Cole Sisson
+Assigned Task Force: E-13 "Manifest Destiny"
+Location: Joppa, IN, USA
+
+Special Containment Procedures:
+
+The entrance to SCP-2935 has been sealed with concrete. Access to SCP-2935 is strictly forbidden.
+
+Description:
+
+SCP-2935 is a space-time anomaly located within a limestone cave beneath a cemetery near Joppa, Indiana. The cemetery's last recorded interment was in 1908. SCP-2935 was discovered by Foundation personnel after detection of anomalous radio signals emanating from the site (see Addendum 2935.1).
+
+The anomaly contains a near-exact replica of modern Earth in 2016. All life—biological, mechanical, or otherwise sentient—ceased to exist within SCP-2935 on April 20th, 2016. Mobile Task Force reconnaissance indicates this extinction occurred suddenly between 0300–0400 EST. The cause remains unknown.
+
+Addendum 2935.1: Discovery
+
+On April 28th, 2016, at approximately 0500 EST, a distorted radio signal was detected by Site-81 communications personnel. Tracing located the signal near Joppa, Indiana, prompting dispatch of Site-81 agents. SCP-2935 was identified upon investigation of the limestone cave.
+
+Initial drone reconnaissance led personnel to believe the anomaly was merely a cave passage. Confirmation of the anomaly occurred after receiving an undistorted broadcast originating from Site-81 within SCP-2935, repeating a looped emergency message from April 20th, 2016.
+
+“This is an automated emergency broadcast from the SCP Foundation and your national government. One or more of our sites is experiencing a communication breakdown, likely due to a containment breach of unknown magnitude. All citizens are ordered to stay in their homes as containment teams work to secure the breach. This message will broadcast from April 20th, 2016 until—” (message cuts out and repeats)
+
+Mobile Task Force Epsilon-13 "Manifest Destiny" was deployed for further examination.
+
+Addendum 2935.2: Exploration
+
+Exploration occurred over four missions (three manned, one unmanned). Artifacts and information recovered are cataloged in Addendum 2935.3.
+
+Mission Abstract: Close Addendum
+
+Objective: Survey and collect information around SCP-2935 insertion point
+Assigned Task Force: MTF Epsilon-13 "Manifest Destiny" (4 members)
+
+Summary of Preliminary Reconnaissance:
+
+[BEGIN LOG]
+
+Juno: Mics on.
+Devon: Check.
+Kael: Check.
+Underwood: Check.
+
+Juno: Command?
+Command: We hear you. Confirm all agents at insertion point.
+Juno: Confirmed.
+Command: Proceed. Exercise caution; environment unknown.
+Juno: Understood.
+
+Team traverses cave (~15 minutes), emerges into SCP-2935.
+
+Underwood: Christ.
+Kael: Yeah, holy shit.
+Command: Confirm visual data, Lead.
+Juno: Looks like complete absence of life. Vegetation is dead.
+
+Team proceeds north along local road.
+
+Juno: There's a farmhouse. Investigating.
+Command: Underwood, set up broadcast relay.
+Underwood: Relay set.
+
+Team enters farmhouse.
+
+Devon: Jesus Christ…
+Three adult corpses, one child corpse present.
+
+Juno: Command, visual confirmation?
+Command: Affirmed. Life signs?
+Juno: All deceased. Recent, minimal decomposition.
+
+Newspaper dated April 19th, 2016; food stale but not rotten.
+
+Devon: TV works… displaying Home Shopping Network. Figures unmoving; set partially burned. Red emergency lights flashing. Date reads April 28th, 2016.
+
+Juno: Team, extract samples. Biology, food, electronics. Move back to insertion point after.
+
+Team collects samples and vegetation, establishes temporary forward camp within SCP-2935.
+
+Devon: Boss… nothing alive. No birds, insects, cars. Just wind.
+
+[END LOG]
+
+Note: Following initial survey, MTF instructed to maintain forward camp until additional members arrive.

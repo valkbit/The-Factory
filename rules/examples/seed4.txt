@@ -1,0 +1,15 @@
+Item #: SCP-9182  
+Object Class: Keter  
+
+Special Containment Procedures:  
+SCP-9182 is to be contained within a reinforced subterranean vault at Site-19. The vault walls are to be lined with adaptive magnetic shielding to prevent unauthorized movement of SCP-9182’s metallic fragments. Access is strictly forbidden without O5 approval.  
+
+Description:  
+SCP-9182 is an amorphous, semi-sentient mass of metallic fragments capable of rapid self-assembly. SCP-9182 demonstrates hostile behavior toward all living entities on sight and is capable of forming temporary structures, weapons, and tools from its components.  
+
+SCP-9182 propagates by disassembling and reassembling within 500 meters, making standard containment ineffective. A breach event in 2023 resulted in the temporary isolation of Site-19. SCP-9182 was recaptured using an experimental electromagnetic disruption array.  
+
+Addendum 9182-1 – Incident Log:  
+During the breach, SCP-9182 assimilated several security drones, forming composite weaponized entities. Casualties included 7 security personnel and 3 MTF operatives. Following this event, containment protocols were revised to include remote electromagnetic monitoring and automated neutralization procedures.  
+
+— End of Document —

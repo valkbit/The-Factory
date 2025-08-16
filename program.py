@@ -21,6 +21,8 @@ def generate_scp(context: str, client):
 
         {context}
 
+        OBJECT ID: {scp_file['id']}
+        
         Generate ONLY the description section content (do not include "Description:" header). Keep it between 150-400 words."""
 
         try:
@@ -38,6 +40,8 @@ def generate_scp(context: str, client):
         prompt = f"""Based on the SCP Foundation documentation and the following anomaly description, generate specific Special Containment Procedures:
 
         {context}
+
+        OBJECT ID: {scp_file['id']}
 
         ANOMALY DESCRIPTION:
         {scp_file["description"]}
@@ -60,6 +64,7 @@ def generate_scp(context: str, client):
 
         {context}
 
+        OBJECT ID: {scp_file['id']}
         CONTAINMENT PROCEDURES: {scp_file["procedures"]}
         DESCRIPTION: {scp_file["description"]}
 
@@ -98,6 +103,7 @@ def generate_scp(context: str, client):
 
         {context}
 
+        OBJECT ID: {scp_file['id']}
         OBJECT CLASS: {obj_class}
         CONTAINMENT PROCEDURES: {containment_procedures}
         DESCRIPTION: {description}

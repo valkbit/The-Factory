@@ -44,7 +44,7 @@ RootFolder
 1. Clone this repository:
    ```bash
    git clone https://github.com/valkbit/the-factory.git
-   cd scp-generator
+   cd the-factory
    ```
 
 2. Install the dependencies:
